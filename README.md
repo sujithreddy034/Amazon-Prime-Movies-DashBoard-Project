@@ -4,24 +4,24 @@ The goal of this project is to uncover patterns, trends, and insights within the
 
 # Process
 ## Data Preparation (Excel)
-  - Loaded amazon_prime_titles.csv dataset-
-  - Cleaned missing or inconsistent entries (e.g. empty director or country fields)
-  - Parsed columns like genre and ratings for easier analysis
-  - Filtered data to focus on movies and TV shows from 1920 onward
-  - Created pivot tables for summary stats and trends
+  - Loaded amazon_prime_titles.csv dataset.
+  - Cleaned missing or inconsistent entries (e.g. empty director or country fields).
+  - Parsed columns like genre and ratings for easier analysis.
+  - Filtered data to focus on movies and TV shows from 1920 onward.
+  - Created pivot tables for summary stats and trends.
 
 ## Visualization & Analysis (Power BI)
 Imported cleaned Excel file
 Created visual reports including:
-  - Pie charts for content type distribution
-  - Bar graphs for top genres
-  - Heat maps to show global content origin
-  - Timeline charts for annual release trends
-  - Donut charts and slicers for audience rating breakdown
-  - Table views of top directors by volume of work
-Enabled interactivity for drill-down exploration and cross-filtering
+  - Pie charts for content type distribution.
+  - Bar graphs for top genres.
+  - Heat maps to show global content origin.
+  - Timeline charts for annual release trends.
+  - Donut charts and slicers for audience rating breakdown.
+  - Table views of top directors by volume of work.
+Enabled interactivity for drill-down exploration and cross-filtering.
 
 ## Insight Delivery
-- Synthesized dashboard observations into storylines
-- Highlighted interesting takeaways (e.g. surge in releases post-2000, genre preferences by rating)
-- Designed dashboard for presentation or portfolio showcase
+- Synthesized dashboard observations into storylines.
+- Highlighted interesting takeaways (e.g. surge in releases post-2000, genre preferences by rating).
+- Designed dashboard for presentation or portfolio showcase.
