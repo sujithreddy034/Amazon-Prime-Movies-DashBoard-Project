@@ -3,7 +3,7 @@
 The goal of this project is to uncover patterns, trends, and insights within the Amazon Prime Video content catalog using Excel and Power BI. By examining data from over 9,600 titles—including movies and TV shows—this analysis helps visualize the platform’s diversity in genres, global reach, audience targeting, and content evolution across decades.
 
 ## Dataset Used
-- <a href="">Dataset</a>
+- <a href="https://github.com/sujithreddy034/Amazon-Sales-DashBoard-Project/blob/main/amazon_prime_titles.csv">Dataset</a>
 # Process
 ## Data Preparation (Excel)
   - Loaded amazon_prime_titles.csv dataset.
