@@ -23,7 +23,13 @@ Created visual reports including:
   - Table views of top directors by volume of work.
 Enabled interactivity for drill-down exploration and cross-filtering.
 
+## Dashboard
+![Screenshot 2025-07-03 215654](https://github.com/user-attachments/assets/15526fc7-aec9-40f5-9067-236f5a7d1ef8)
+
 ## Insight Delivery
 - Synthesized dashboard observations into storylines.
 - Highlighted interesting takeaways (e.g. surge in releases post-2000, genre preferences by rating).
 - Designed dashboard for presentation or portfolio showcase.
+
+## Final Conclusion
+Using Excel and Power BI, this project distilled key insights from 9,600+ Amazon Prime Video titles. It revealed trends in content types, genre diversity, global representation, audience ratings, and director contributions. The analysis highlights how simple tools can powerfully uncover meaningful patterns in entertainment data.
