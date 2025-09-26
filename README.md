@@ -6,11 +6,10 @@ The goal of this project is to uncover patterns, trends, and insights within the
 - <a href="https://github.com/sujithreddy034/Amazon-Sales-DashBoard-Project/blob/main/amazon_prime_titles.csv">Dataset</a>
 # Process
 ## Data Preparation (Excel)
-  - Loaded amazon_prime_titles.csv dataset.
-  - Cleaned missing or inconsistent entries (e.g. empty director or country fields).
-  - Parsed columns like genre and ratings for easier analysis.
-  - Filtered data to focus on movies and TV shows from 1920 onward.
-  - Created pivot tables for summary stats and trends.
+  - Loaded the Amazon Prime Titles dataset and performed data cleaning (handled missing values, standardized text fields, filtered invalid records).
+  - Parsed columns like genre, ratings, and release year for better analysis.
+  - Applied SQL-like operations such as WHERE, CASE WHEN, and GROUP BY to prepare summary insights.
+  - Designed an interactive Power BI dashboard to visualize year-wise trends, top genres, and ratings distribution.
 
 ## Visualization & Analysis (Power BI)
 Imported cleaned Excel file
